@@ -24,7 +24,7 @@ def main():
         "songs":songs,
         "models":models,
         "github":True,
-        "gh_url":"https://cdn.jsdelivr.net/gh/anonymousgeekyresearcher/struct-aware_infilling",
+        "gh_url":"https://cdn.jsdelivr.net/gh/anonymousgeekyresearcher/structure-aware_infilling",
         "repo":"",
     }
     content = template.render(table)
